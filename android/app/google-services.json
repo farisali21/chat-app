@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "505175408225",
+    "firebase_url": "https://viperchat-3b31a.firebaseio.com",
+    "project_id": "viperchat-3b31a",
+    "storage_bucket": "viperchat-3b31a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505175408225:android:ffecd982fecb1a3b8f7420",
+        "android_client_info": {
+          "package_name": "farisali.viber_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505175408225-8ouc3o4q3m0td4gmpm2ppndgk5iot7vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhyAxGb3PVLvUO0AOoZR_UfJvNjHRPQUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505175408225-8ouc3o4q3m0td4gmpm2ppndgk5iot7vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
